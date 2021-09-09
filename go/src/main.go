@@ -1,8 +1,8 @@
 package main
 
 func main() {
-	testSQRT()
-	testEngToNum()
-	test_fknum()
-
+	//testSQRT()
+	//testEngToNum()
+	//test_fknum()
+	testFindPrimeN()
 }
