@@ -1,6 +1,6 @@
 package main
 
-func testFindPrimeN() {
+func testBoolNums() {
 	absolutes := []int{1, 2, 3}
 	signs := []bool{false, false, true}
 	println(chkBoolNums(absolutes, signs))
