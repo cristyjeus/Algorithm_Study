@@ -6,5 +6,6 @@ func main() {
 	//test_fknum()
 	//testBoolNums()
 	//testFindPrimeN()
-	testLottos()
+	//testLottos()
+	testAddNumber()
 }
